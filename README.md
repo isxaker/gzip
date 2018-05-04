@@ -2,19 +2,19 @@ it's a console app for perform zip/unzip extremely large files via System.IO.Com
 
 basically it's veeam software task for candidates
 
-gzip
-veeam 
-interview task
-test
-chain
-gzip
-zip
-queue
-zipper
-console
-C#
-application based on GZip .net
-multithreading zipping algorithm
+#gzip
+#veeam 
+#interview_task
+#test
+#chain
+#gzip
+#zip
+#queue
+#zipper
+#console
+#C#
+#.net
+multithreading compression\decompression algorithm
 read file by chunks
 read large file
 producer consumer
